@@ -23,13 +23,8 @@ def run() -> any:
   winStatus: bool = False
 
   while runNumber != NUMBER_OF_RUNS:
-    print(currentMoney, runNumber, bet)
     #bet update
     winStatus = True if randint(0, 1) >= 0.5 else False
-    # if randint(0, 1) >= 0.5:
-    #   winStatus = True
-    # else:
-    #   winStatus = False
     
     #money update
     currentMoney = updateWinningMonney(winStatus, currentMoney, bet)
