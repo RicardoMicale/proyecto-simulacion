@@ -1,0 +1,348 @@
+Corrida Numero    Dinero total     Apuesta     Resultado
+0:
+        30 10 Ganador
+        40 10 Perdedor
+        30 20 Ganador
+        -------
+        Corrida numero: 0, resultado: Apuesta ganada
+
+1:
+        30 10 Perdedor
+        20 20 Perdedor
+        -------
+        Corrida numero: 1, resultado: Apuesta perdida
+
+2:
+        30 10 Perdedor
+        20 20 Perdedor
+        -------
+        Corrida numero: 2, resultado: Apuesta perdida
+
+3:
+        30 10 Ganador
+        40 10 Perdedor
+        30 20 Perdedor
+        10 40 Ganador
+        -------
+        Corrida numero: 3, resultado: Apuesta ganada
+
+4:
+        30 10 Perdedor
+        20 20 Ganador
+        40 10 Ganador
+        -------
+        Corrida numero: 4, resultado: Apuesta ganada
+
+5:
+        30 10 Ganador
+        40 10 Perdedor
+        30 20 Perdedor
+        10 40 Ganador
+        -------
+        Corrida numero: 5, resultado: Apuesta ganada
+
+6:
+        30 10 Perdedor
+        20 20 Ganador
+        40 10 Ganador
+        -------
+        Corrida numero: 6, resultado: Apuesta ganada
+
+7:
+        30 10 Ganador
+        40 10 Perdedor
+        30 20 Perdedor
+        10 40 Ganador
+        -------
+        Corrida numero: 7, resultado: Apuesta ganada
+
+8:
+        30 10 Ganador
+        40 10 Perdedor
+        30 20 Perdedor
+        10 40 Perdedor
+        -------
+        Corrida numero: 8, resultado: Apuesta perdida
+
+9:
+        30 10 Perdedor
+        20 20 Perdedor
+        -------
+        Corrida numero: 9, resultado: Apuesta perdida
+
+10:
+        30 10 Perdedor
+        20 20 Perdedor
+        -------
+        Corrida numero: 10, resultado: Apuesta perdida
+
+11:
+        30 10 Ganador
+        40 10 Ganador
+        -------
+        Corrida numero: 11, resultado: Apuesta ganada
+
+12:
+        30 10 Ganador
+        40 10 Ganador
+        -------
+        Corrida numero: 12, resultado: Apuesta ganada
+
+13:
+        30 10 Perdedor
+        20 20 Ganador
+        40 10 Ganador
+        -------
+        Corrida numero: 13, resultado: Apuesta ganada
+
+14:
+        30 10 Perdedor
+        20 20 Ganador
+        40 10 Ganador
+        -------
+        Corrida numero: 14, resultado: Apuesta ganada
+
+15:
+        30 10 Ganador
+        40 10 Perdedor
+        30 20 Ganador
+        -------
+        Corrida numero: 15, resultado: Apuesta ganada
+
+16:
+        30 10 Ganador
+        40 10 Perdedor
+        30 20 Perdedor
+        10 40 Perdedor
+        -------
+        Corrida numero: 16, resultado: Apuesta perdida
+
+17:
+        30 10 Perdedor
+        20 20 Ganador
+        40 10 Ganador
+        -------
+        Corrida numero: 17, resultado: Apuesta ganada
+
+18:
+        30 10 Ganador
+        40 10 Ganador
+        -------
+        Corrida numero: 18, resultado: Apuesta ganada
+
+19:
+        30 10 Ganador
+        40 10 Ganador
+        -------
+        Corrida numero: 19, resultado: Apuesta ganada
+
+20:
+        30 10 Ganador
+        40 10 Perdedor
+        30 20 Ganador
+        -------
+        Corrida numero: 20, resultado: Apuesta ganada
+
+21:
+        30 10 Ganador
+        40 10 Ganador
+        -------
+        Corrida numero: 21, resultado: Apuesta ganada
+
+22:
+        30 10 Perdedor
+        20 20 Ganador
+        40 10 Ganador
+        -------
+        Corrida numero: 22, resultado: Apuesta ganada
+
+23:
+        30 10 Perdedor
+        20 20 Ganador
+        40 10 Ganador
+        -------
+        Corrida numero: 23, resultado: Apuesta ganada
+
+24:
+        30 10 Ganador
+        40 10 Perdedor
+        30 20 Perdedor
+        10 40 Ganador
+        -------
+        Corrida numero: 24, resultado: Apuesta ganada
+
+25:
+        30 10 Ganador
+        40 10 Perdedor
+        30 20 Ganador
+        -------
+        Corrida numero: 25, resultado: Apuesta ganada
+
+26:
+        30 10 Ganador
+        40 10 Ganador
+        -------
+        Corrida numero: 26, resultado: Apuesta ganada
+
+27:
+        30 10 Ganador
+        40 10 Ganador
+        -------
+        Corrida numero: 27, resultado: Apuesta ganada
+
+28:
+        30 10 Perdedor
+        20 20 Perdedor
+        -------
+        Corrida numero: 28, resultado: Apuesta perdida
+
+29:
+        30 10 Perdedor
+        20 20 Ganador
+        40 10 Perdedor
+        30 20 Perdedor
+        10 40 Ganador
+        -------
+        Corrida numero: 29, resultado: Apuesta ganada
+
+30:
+        30 10 Ganador
+        40 10 Perdedor
+        30 20 Ganador
+        -------
+        Corrida numero: 30, resultado: Apuesta ganada
+
+31:
+        30 10 Perdedor
+        20 20 Ganador
+        40 10 Perdedor
+        30 20 Perdedor
+        10 40 Ganador
+        -------
+        Corrida numero: 31, resultado: Apuesta ganada
+
+32:
+        30 10 Perdedor
+        20 20 Ganador
+        40 10 Perdedor
+        30 20 Perdedor
+        10 40 Perdedor
+        -------
+        Corrida numero: 32, resultado: Apuesta perdida
+
+33:
+        30 10 Perdedor
+        20 20 Ganador
+        40 10 Ganador
+        -------
+        Corrida numero: 33, resultado: Apuesta ganada
+
+34:
+        30 10 Ganador
+        40 10 Perdedor
+        30 20 Perdedor
+        10 40 Perdedor
+        -------
+        Corrida numero: 34, resultado: Apuesta perdida
+
+35:
+        30 10 Ganador
+        40 10 Ganador
+        -------
+        Corrida numero: 35, resultado: Apuesta ganada
+
+36:
+        30 10 Perdedor
+        20 20 Ganador
+        40 10 Perdedor
+        30 20 Ganador
+        -------
+        Corrida numero: 36, resultado: Apuesta ganada
+
+37:
+        30 10 Ganador
+        40 10 Perdedor
+        30 20 Perdedor
+        10 40 Perdedor
+        -------
+        Corrida numero: 37, resultado: Apuesta perdida
+
+38:
+        30 10 Ganador
+        40 10 Ganador
+        -------
+        Corrida numero: 38, resultado: Apuesta ganada
+
+39:
+        30 10 Perdedor
+        20 20 Perdedor
+        -------
+        Corrida numero: 39, resultado: Apuesta perdida
+
+40:
+        30 10 Perdedor
+        20 20 Ganador
+        40 10 Ganador
+        -------
+        Corrida numero: 40, resultado: Apuesta ganada
+
+41:
+        30 10 Ganador
+        40 10 Ganador
+        -------
+        Corrida numero: 41, resultado: Apuesta ganada
+
+42:
+        30 10 Perdedor
+        20 20 Ganador
+        40 10 Ganador
+        -------
+        Corrida numero: 42, resultado: Apuesta ganada
+
+43:
+        30 10 Ganador
+        40 10 Ganador
+        -------
+        Corrida numero: 43, resultado: Apuesta ganada
+
+44:
+        30 10 Ganador
+        40 10 Ganador
+        -------
+        Corrida numero: 44, resultado: Apuesta ganada
+
+45:
+        30 10 Ganador
+        40 10 Ganador
+        -------
+        Corrida numero: 45, resultado: Apuesta ganada
+
+46:
+        30 10 Perdedor
+        20 20 Ganador
+        40 10 Perdedor
+        30 20 Perdedor
+        10 40 Perdedor
+        -------
+        Corrida numero: 46, resultado: Apuesta perdida
+
+47:
+        30 10 Perdedor
+        20 20 Ganador
+        40 10 Ganador
+        -------
+        Corrida numero: 47, resultado: Apuesta ganada
+
+48:
+        30 10 Perdedor
+        20 20 Perdedor
+        -------
+        Corrida numero: 48, resultado: Apuesta perdida
+
+49:
+        30 10 Ganador
+        40 10 Perdedor
+        30 20 Ganador
+        -------
+        Corrida numero: 49, resultado: Apuesta ganada
+
