@@ -1,4 +1,5 @@
 from random import randint
+import matplotlib.pyplot as plt
 
 STANDARD_BET: int = 10
 NUMBER_OF_RUNS: int = 50
@@ -112,10 +113,34 @@ def buildTable() -> any:
   with open('tabla.txt', 'w') as table:
     table.write(tableRow)
 
+def graph() -> any:
+  # Auxiliary variables
+  runNumbers: list = []
+  runWinPercentages: list = []
+  winNumber: int = 0
+  runWinPercentage: float = 0.0
+  
+  # Creating axis arrays
+  # x -> runNumber
+  # y -> runWinPercentage
+  for primaryKey in log:
+    runNumbers.append(primaryKey)
+    if log[primaryKey]['result'][-1]:
+      winNumber += 1
+
+    runWinPercentage = winNumber / len(runNumbers)
+    runWinPercentages.append(runWinPercentage)
+  
+  plt.plot(runNumbers, runWinPercentages)
+  plt.xlabel('Número de corrida')
+  plt.ylabel('Porcentaje de ganar')
+  plt.pause(50)
+  plt.show()
 
 def main() -> any:
   run()
   statistics()
   buildTable()
+  graph()
 
 main()
