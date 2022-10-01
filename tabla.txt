@@ -1,23 +1,20 @@
 Corrida numero 1:
-30 10 Perdedor
-20 20 Ganador
+30 10 Ganador
 40 10 Ganador
 -------
 resultado: Apuesta ganada
 
 Corrida numero 2:
-30 10 Perdedor
-20 20 Perdedor
+30 10 Ganador
+40 10 Ganador
 -------
-resultado: Apuesta perdida
+resultado: Apuesta ganada
 
 Corrida numero 3:
 30 10 Ganador
-40 10 Perdedor
-30 20 Perdedor
-10 40 Perdedor
+40 10 Ganador
 -------
-resultado: Apuesta perdida
+resultado: Apuesta ganada
 
 Corrida numero 4:
 30 10 Perdedor
@@ -26,72 +23,75 @@ Corrida numero 4:
 resultado: Apuesta perdida
 
 Corrida numero 5:
-30 10 Perdedor
-20 20 Ganador
+30 10 Ganador
 40 10 Ganador
 -------
 resultado: Apuesta ganada
 
 Corrida numero 6:
 30 10 Ganador
+40 10 Ganador
+-------
+resultado: Apuesta ganada
+
+Corrida numero 7:
+30 10 Ganador
+40 10 Perdedor
+30 20 Ganador
+-------
+resultado: Apuesta ganada
+
+Corrida numero 8:
+30 10 Perdedor
+20 20 Ganador
 40 10 Perdedor
 30 20 Perdedor
 10 40 Perdedor
 -------
 resultado: Apuesta perdida
 
-Corrida numero 7:
-30 10 Ganador
-40 10 Ganador
--------
-resultado: Apuesta ganada
-
-Corrida numero 8:
-30 10 Ganador
-40 10 Ganador
--------
-resultado: Apuesta ganada
-
 Corrida numero 9:
-30 10 Ganador
-40 10 Ganador
+30 10 Perdedor
+20 20 Perdedor
 -------
-resultado: Apuesta ganada
+resultado: Apuesta perdida
 
 Corrida numero 10:
-30 10 Ganador
-40 10 Perdedor
-30 20 Ganador
--------
-resultado: Apuesta ganada
-
-Corrida numero 11:
-30 10 Ganador
-40 10 Perdedor
-30 20 Ganador
--------
-resultado: Apuesta ganada
-
-Corrida numero 12:
 30 10 Perdedor
 20 20 Ganador
 40 10 Ganador
 -------
 resultado: Apuesta ganada
 
+Corrida numero 11:
+30 10 Perdedor
+20 20 Perdedor
+-------
+resultado: Apuesta perdida
+
+Corrida numero 12:
+30 10 Perdedor
+20 20 Ganador
+40 10 Perdedor
+30 20 Perdedor
+10 40 Perdedor
+-------
+resultado: Apuesta perdida
+
 Corrida numero 13:
-30 10 Ganador
-40 10 Ganador
+30 10 Perdedor
+20 20 Ganador
+40 10 Perdedor
+30 20 Perdedor
+10 40 Ganador
 -------
 resultado: Apuesta ganada
 
 Corrida numero 14:
 30 10 Perdedor
-20 20 Ganador
-40 10 Perdedor
-30 20 Ganador
+20 20 Perdedor
 -------
-resultado: Apuesta ganada
+resultado: Apuesta perdida
 
 Corrida numero 15:
 30 10 Ganador
@@ -107,46 +107,45 @@ Corrida numero 16:
 resultado: Apuesta ganada
 
 Corrida numero 17:
-30 10 Ganador
+30 10 Perdedor
+20 20 Ganador
 40 10 Perdedor
 30 20 Ganador
 -------
 resultado: Apuesta ganada
 
 Corrida numero 18:
-30 10 Perdedor
-20 20 Perdedor
--------
-resultado: Apuesta perdida
-
-Corrida numero 19:
 30 10 Ganador
 40 10 Perdedor
 30 20 Ganador
+-------
+resultado: Apuesta ganada
+
+Corrida numero 19:
+30 10 Ganador
+40 10 Ganador
 -------
 resultado: Apuesta ganada
 
 Corrida numero 20:
 30 10 Ganador
-40 10 Perdedor
-30 20 Ganador
+40 10 Ganador
 -------
 resultado: Apuesta ganada
 
 Corrida numero 21:
 30 10 Perdedor
-20 20 Ganador
-40 10 Perdedor
-30 20 Perdedor
-10 40 Perdedor
+20 20 Perdedor
 -------
 resultado: Apuesta perdida
 
 Corrida numero 22:
-30 10 Perdedor
-20 20 Perdedor
+30 10 Ganador
+40 10 Perdedor
+30 20 Perdedor
+10 40 Ganador
 -------
-resultado: Apuesta perdida
+resultado: Apuesta ganada
 
 Corrida numero 23:
 30 10 Ganador
@@ -155,17 +154,15 @@ Corrida numero 23:
 resultado: Apuesta ganada
 
 Corrida numero 24:
-30 10 Ganador
-40 10 Ganador
+30 10 Perdedor
+20 20 Perdedor
 -------
-resultado: Apuesta ganada
+resultado: Apuesta perdida
 
 Corrida numero 25:
 30 10 Perdedor
 20 20 Ganador
-40 10 Perdedor
-30 20 Perdedor
-10 40 Ganador
+40 10 Ganador
 -------
 resultado: Apuesta ganada
 
@@ -188,11 +185,10 @@ Corrida numero 28:
 resultado: Apuesta ganada
 
 Corrida numero 29:
-30 10 Ganador
-40 10 Perdedor
-30 20 Ganador
+30 10 Perdedor
+20 20 Perdedor
 -------
-resultado: Apuesta ganada
+resultado: Apuesta perdida
 
 Corrida numero 30:
 30 10 Perdedor
@@ -202,35 +198,39 @@ resultado: Apuesta perdida
 
 Corrida numero 31:
 30 10 Ganador
-40 10 Ganador
+40 10 Perdedor
+30 20 Perdedor
+10 40 Perdedor
 -------
-resultado: Apuesta ganada
+resultado: Apuesta perdida
 
 Corrida numero 32:
-30 10 Ganador
+30 10 Perdedor
+20 20 Ganador
 40 10 Perdedor
-30 20 Ganador
+30 20 Perdedor
+10 40 Ganador
 -------
 resultado: Apuesta ganada
 
 Corrida numero 33:
-30 10 Perdedor
-20 20 Ganador
-40 10 Perdedor
-30 20 Ganador
+30 10 Ganador
+40 10 Ganador
 -------
 resultado: Apuesta ganada
 
 Corrida numero 34:
-30 10 Ganador
-40 10 Perdedor
-30 20 Ganador
+30 10 Perdedor
+20 20 Ganador
+40 10 Ganador
 -------
 resultado: Apuesta ganada
 
 Corrida numero 35:
 30 10 Ganador
-40 10 Ganador
+40 10 Perdedor
+30 20 Perdedor
+10 40 Ganador
 -------
 resultado: Apuesta ganada
 
@@ -243,67 +243,61 @@ Corrida numero 36:
 resultado: Apuesta ganada
 
 Corrida numero 37:
-30 10 Perdedor
-20 20 Ganador
-40 10 Perdedor
-30 20 Ganador
+30 10 Ganador
+40 10 Ganador
 -------
 resultado: Apuesta ganada
 
 Corrida numero 38:
-30 10 Perdedor
-20 20 Perdedor
+30 10 Ganador
+40 10 Ganador
 -------
-resultado: Apuesta perdida
+resultado: Apuesta ganada
 
 Corrida numero 39:
-30 10 Perdedor
-20 20 Ganador
-40 10 Perdedor
-30 20 Ganador
+30 10 Ganador
+40 10 Ganador
 -------
 resultado: Apuesta ganada
 
 Corrida numero 40:
 30 10 Perdedor
+20 20 Ganador
+40 10 Perdedor
+30 20 Perdedor
+10 40 Ganador
+-------
+resultado: Apuesta ganada
+
+Corrida numero 41:
+30 10 Perdedor
 20 20 Perdedor
 -------
 resultado: Apuesta perdida
 
-Corrida numero 41:
-30 10 Ganador
-40 10 Perdedor
-30 20 Perdedor
-10 40 Perdedor
--------
-resultado: Apuesta perdida
-
 Corrida numero 42:
-30 10 Perdedor
-20 20 Ganador
+30 10 Ganador
 40 10 Perdedor
 30 20 Ganador
 -------
 resultado: Apuesta ganada
 
 Corrida numero 43:
-30 10 Ganador
-40 10 Ganador
+30 10 Perdedor
+20 20 Perdedor
 -------
-resultado: Apuesta ganada
+resultado: Apuesta perdida
 
 Corrida numero 44:
-30 10 Ganador
-40 10 Perdedor
-30 20 Perdedor
-10 40 Perdedor
+30 10 Perdedor
+20 20 Perdedor
 -------
 resultado: Apuesta perdida
 
 Corrida numero 45:
-30 10 Perdedor
-20 20 Ganador
-40 10 Ganador
+30 10 Ganador
+40 10 Perdedor
+30 20 Ganador
 -------
 resultado: Apuesta ganada
 
@@ -315,31 +309,25 @@ resultado: Apuesta perdida
 
 Corrida numero 47:
 30 10 Ganador
-40 10 Perdedor
-30 20 Perdedor
-10 40 Ganador
+40 10 Ganador
 -------
 resultado: Apuesta ganada
 
 Corrida numero 48:
 30 10 Ganador
-40 10 Perdedor
-30 20 Ganador
+40 10 Ganador
 -------
 resultado: Apuesta ganada
 
 Corrida numero 49:
 30 10 Ganador
-40 10 Perdedor
-30 20 Perdedor
-10 40 Ganador
+40 10 Ganador
 -------
 resultado: Apuesta ganada
 
 Corrida numero 50:
-30 10 Ganador
-40 10 Perdedor
-30 20 Ganador
+30 10 Perdedor
+20 20 Perdedor
 -------
-resultado: Apuesta ganada
+resultado: Apuesta perdida
 
